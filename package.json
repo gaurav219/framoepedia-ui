@@ -8,11 +8,6 @@
   "files": [
     "build/**/*"
   ],
-  "np": {
-    "yarn": false,
-    "contents": "build",
-    "tests": false
-  },
   "dependencies": {
     "@rollup/plugin-commonjs": "^21.0.1",
     "@rollup/plugin-node-resolve": "^13.1.3",
